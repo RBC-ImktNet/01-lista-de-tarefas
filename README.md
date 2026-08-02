@@ -45,4 +45,4 @@ npm run preview
 
 ---
 
-Projeto **01 de 20** da série de projetos para portfólio.
+Projeto portfólio.
