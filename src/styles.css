@@ -20,7 +20,7 @@ button { cursor: pointer; }
 .hero h1 { font: 700 clamp(31px, 4vw, 43px)/1.08 'Manrope'; letter-spacing: -1.7px; margin: 0; }
 .hero h1 em { font-style: normal; color: #d5ceff; }
 .hero-copy > p:last-child { color: #ddd9fb; max-width: 470px; margin-bottom: 0; font-size: 14px; }
-.progress-card { position: absolute; z-index: 2; right: 45px; bottom: 42px; display: flex; gap: 13px; align-items: center; padding: 12px 16px; border: 1px solid rgba(255,255,255,.18); border-radius: 16px; background: rgba(255,255,255,.1); backdrop-filter: blur(8px); }
+.progress-card { position: absolute; z-index: 2; right: 45px; bottom: 42px; display: flex; gap: 13px; align-items: center; padding: 12px 16px; border: 1px solid rgba(255,255,255,.18); border-radius: 16px; background: rgba(255,255,255,.1); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); }
 .progress-ring { --progress: 0deg; display: grid; place-items: center; width: 54px; height: 54px; border-radius: 50%; background: conic-gradient(#bff3e8 var(--progress), rgba(255,255,255,.18) 0); position: relative; }
 .progress-ring::after { content: ''; position: absolute; inset: 5px; border-radius: 50%; background: #7561e8; }
 .progress-ring span { position: relative; z-index: 1; font-weight: 700; font-size: 12px; }
