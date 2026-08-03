@@ -1,5 +1,13 @@
 # Foco — Lista de tarefas
 
+[![Status](https://img.shields.io/badge/status-concluído-6754e8)](https://rbc-imktnet.github.io/taskflow/) [![React](https://img.shields.io/badge/React-TypeScript-3178c6)](https://react.dev/)
+
+![Demonstração do Taskflow](docs/preview.svg)
+
+## Demonstração online
+
+**[Abrir Taskflow](https://rbc-imktnet.github.io/taskflow/)**
+
 Aplicação de produtividade criada com React e TypeScript. O projeto permite organizar tarefas, acompanhar o progresso e manter os dados salvos no próprio navegador.
 
 ## Funcionalidades
