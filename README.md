@@ -1,5 +1,7 @@
 # Taskflow — Gerenciador de tarefas
 
+[![Deploy](https://github.com/RBC-ImktNet/taskflow/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/RBC-ImktNet/taskflow/actions/workflows/deploy-pages.yml) [![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-yellow.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/status-concluído-6754e8)](https://rbc-imktnet.github.io/taskflow/) [![React](https://img.shields.io/badge/React-TypeScript-3178c6)](https://react.dev/)
 
 ![Demonstração do Taskflow](docs/preview.svg)
@@ -54,3 +56,11 @@ npm run preview
 ---
 
 Projeto portfólio.
+
+## Compatibilidade
+
+Interface responsiva desenvolvida para navegadores modernos, em dispositivos móveis e desktop.
+
+## Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
